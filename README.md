@@ -1,13 +1,5 @@
 In app billing documentation
 ===================================
-Requirements
--------------
-Cordova 3.0, Android 2.2.1 and Android 4.2.2
-
-* Purchasing and querying managed in-app items:  
-Google Play client version 3.9.16  
-* Purchasing and querying subscription items:  
-Google Play client version 3.10.10 or higher  
 
 Installation 
 -------------
